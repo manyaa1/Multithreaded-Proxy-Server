@@ -50,7 +50,7 @@ Replace username with your username
 ##  Build Instructions
 1.Open the project in Visual Studio.
 
-2.Ensure you have C++ support and Windows Desktop Development tools installed.
+2.Ensure you have C support and Windows Desktop Development tools installed.
 
 3.Link the ws2_32.lib library:
 
@@ -88,7 +88,7 @@ The server returns the html page in reponse to the client request being made as 
 ![image](https://github.com/user-attachments/assets/a9dc8fbf-d1f3-4612-ac63-00d30593474e)
 
 ### FINAL NOTE
-This project was built to demonstrate multithreading, socket programming, and caching techniques using C++ on Windows. Feel free to explore, improve, and adapt it for your learning or networking experiments!
+This project was built to demonstrate multithreading, socket programming, and caching techniques using C on Windows. Feel free to explore, improve, and adapt it for your learning or networking experiments!
 
 
 
