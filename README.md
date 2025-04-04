@@ -69,6 +69,7 @@ After building the project:
 
 ```
 The socked has been made and the proxy server is now listening for the GET reuqest from client:
+
 ![image](https://github.com/user-attachments/assets/6d8ba43e-d564-4b6e-8176-7cb7916eb56c)
 
 
@@ -78,11 +79,12 @@ curl -x http://127.0.0.1:8081 http://example.com
 curl -x http://127.0.0.1:8081 http://neverssl.com
 
 ```
-The prox_log.text file will log all the cache hits and cache misses as shown:
+The proxy_log.text file will log all the cache hits and cache misses as shown:
 
 ![image](https://github.com/user-attachments/assets/e17532b6-3106-4836-a683-4460ecc2a9cb)
 
 The server returns the html page in reponse to the client request being made as shown:
+
 ![image](https://github.com/user-attachments/assets/a9dc8fbf-d1f3-4612-ac63-00d30593474e)
 
 ### FINAL NOTE
